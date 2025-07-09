@@ -441,18 +441,18 @@ body {
 }
 
 .header {
-    padding: var(--header-padding);
+  padding: var(--header-padding);
 }
 
 .header-logo {
-    position: var(--header-logo-position);
+  position: var(--header-logo-position);
 }
 
 .header-logo a {
-    display: var(--header-logo-link-display);
-    position: var(--header-logo-link-position);
-    top: var(--header-logo-link-top);
-    left: var(--header-logo-link-left);
+  display: var(--header-logo-link-display);
+  position: var(--header-logo-link-position);
+  top: var(--header-logo-link-top);
+  left: var(--header-logo-link-left);
 }
 
 a:link {
